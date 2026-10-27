@@ -7,7 +7,7 @@ I'm an AI/ML and backend engineer in Hyderabad. My favorite part of the job is w
 ## What I've built recently
 
 - **[ProcurePilot AI](https://github.com/Satya1729-bil/ProcurePilot-AI-MVP)**: procurement copilot for invoice validation, exception handling, and supplier operations. FastAPI, PostgreSQL, React, TypeScript.
-- **[RxReveal](https://github.com/Satya1729-bil/GEN-AI)**: RAG assistant that answers questions from medical PDFs and cites the page each answer came from. Gemini embeddings, FAISS, Streamlit, Docker.
+- **[RxReveal](https://github.com/Satya1729-bil/rxreveal)**: RAG assistant that answers questions from medical PDFs and cites the page each answer came from. Gemini embeddings, FAISS, Streamlit, Docker.
 - **[ConsentFlow API](https://github.com/Satya1729-bil/consentflow-api)**: Spring Boot backend for consent workflows, with state transitions, recipient sequencing, input validation, and an audit event for every change.
 - **[Fetal ECG R-peak detection](https://github.com/Satya1729-bil/FR-Net-Based-Fetal-ECG-fECG-R-Peak-Detection-and-Segmentation)**: FR-Net deep learning model that segments fetal R-peaks from abdominal ECG signals, plus the preprocessing and filtering pipeline around it.
 - **[Research Paper Analyzer](https://github.com/Satya1729-bil/research-paper-analyzer)**: multi-agent system where a lead agent assigns analysis, summary, and citation work, and a review loop retries until the output passes quality checks.
